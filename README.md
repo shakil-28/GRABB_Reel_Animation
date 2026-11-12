@@ -6,7 +6,11 @@ A Flutter application showcasing an animated product reel designed specifically 
 
 ## 📽️ Demo Preview
 
-![Grabb Reel Animation Demo](grabb_reel_animation.mp4)
+<div align="center">
+  <video src="grabb_reel_animation.mp4" controls autoplay loop muted playsinline width="320">
+    <p>Your browser does not support the video tag. You can <a href="grabb_reel_animation.mp4">download or watch the screen recording here</a>.</p>
+  </video>
+</div>
 
 *Screen recording demonstrating the product slide sequence, dynamic tilt, synchronized title fade animation, and 9:16 vertical reel framing.*
 
